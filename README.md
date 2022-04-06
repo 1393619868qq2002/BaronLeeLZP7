@@ -1,0 +1,2 @@
+# BaronLeeLZP7
+在瑞芯微rockchip的AI芯片rv1109上，利用rknn和opencv库，修改了官方yolov3后处理部分代码Bug，交叉编译yolov3-demo示例后可成功上板部署运行。
